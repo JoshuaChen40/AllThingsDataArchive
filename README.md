@@ -2,4 +2,4 @@
 ### Analytics
 ### Data Tools
 ### Uncategorized
-- [Databricks DE Associate Certification](/AllThingsData/DatabricksDataEngineerAssociateCertification.md)
+- [Databricks DE Associate Certification](DatabricksDataEngineerAssociateCertification.md)
