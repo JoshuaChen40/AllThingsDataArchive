@@ -1,5 +1,5 @@
-## Catelog
-### Analytics
-### Data Tools
-### Uncategorized
+# Catelog
+## Analytics
+## Data Tools
+## Uncategorized
 - [Databricks DE Associate Certification](DatabricksDataEngineerAssociateCertification.md)
