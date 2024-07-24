@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Catelog
-description: All things data!
+title: All things data!
+description: Catelog Page
 ---
 
 ## Analytics
