@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Catelog
+title: DatabricksDataEngineerAssociateCertification.md
 ---
 
-# [Home](./)
-
-# Opening ....
+## Opening...
 目前服務是使用databricks，一併來進行databricks certification。
 
 ## 例題QA
@@ -50,4 +48,6 @@ A: Delta tables are stored in a collection of files that contain data, history, 
 - 報名網址: [Databricks Certified Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate)
 
 - 例題討論: [ExamTopics](https://www.examtopics.com/exams/databricks/certified-data-engineer-associate/)
+
+# [Home](./)
 
