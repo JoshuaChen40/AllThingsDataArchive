@@ -3,7 +3,7 @@ layout: default
 title: DatabricksDataEngineerAssociateCertification.md
 ---
 
-## Opening...
+## Databricks Data Engineer Associate Certification
 目前服務是使用databricks，一併來進行databricks certification。
 
 ## 例題QA
