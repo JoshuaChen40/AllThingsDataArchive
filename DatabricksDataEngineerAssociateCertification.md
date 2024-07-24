@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Databricks Data Engineer Associate Certification
-description: 
+description: ""
 ---
 
 ## Opening...
