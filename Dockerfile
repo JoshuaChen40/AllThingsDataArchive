@@ -27,4 +27,4 @@ CMD ["bundle", "exec", "jekyll", "serve", "--host=0.0.0.0"]
 
 # docker build -t clean_blog .
 # docker run -p 4000:4000 clean_blog
-# local Server address: http://localhost:4000/AllThingsData/
+# local Server address: http://localhost:4000/AllThingsDataArchive/
